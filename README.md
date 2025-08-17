@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Vagner Lima 👋
 
-<!--
-**VagnerDevBR/VagnerDevBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por desenvolvimento web e programação. Busco aprender constantemente e criar projetos que tenham impacto real.
 
-Here are some ideas to get you started:
+## Tecnologias
+- **JavaScript**  
+- **Python**  
+- **HTML/CSS**  
+- **Git/GitHub**  
+- **SQL / Banco de Dados**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- [Gerador de Senhas Forte](https://github.com/VagnerDevBR/gerador-senhas-fortes) – Ferramenta web que cria senhas seguras e personalizadas, com foco em segurança digital.
+
+
+## O que aprendi com meus projetos
+- Manipulação do DOM com JavaScript  
+- Lógica de programação e boas práticas de código  
+- Estruturação de projetos front-end simples  
+- Uso de Git/GitHub para versionamento e portfólio profissional
+
+## Contato
+- LinkedIn: [Vagner Lima](https://www.linkedin.com/in/vagner-lima-238540379/)  
